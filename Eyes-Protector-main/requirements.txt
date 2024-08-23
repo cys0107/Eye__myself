@@ -1,0 +1,6 @@
+PyQt5==5.15.5
+opencv-python==4.5.5.64
+mediapipe
+matplotlib
+numpy
+requests
